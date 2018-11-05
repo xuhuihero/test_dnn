@@ -4,7 +4,7 @@
 import sys
 import random
 
-for i in range(100000):
+for i in range(10000):
     caseid = random.randint(100000, 999999)
     label = random.randint(10, 1000)
     id_list = []
